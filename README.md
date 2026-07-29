@@ -34,7 +34,7 @@ graph TD
 
 | Day | Module / Component | Technologies | Status |
 | :--- | :--- | :--- | :---: |
-| 📅 **Day 1** | `api-gateway` | Spring Cloud Gateway, Rate Limiting, Route Filters | 🔄 In Progress |
+| 📅 **Day 1** | `api-gateway` | Spring Cloud Gateway, Rate Limiting, Route Filters | ✅ Completed |
 | 📅 **Day 2** | `auth-service` | OAuth2 / JWT Authorization Server, OIDC | ⏳ Queued |
 | 📅 **Day 3** | `config-vault` | Spring Cloud Config & HashiCorp Vault Secret Management | ⏳ Queued |
 | 📅 **Day 4** | `user-service` | User Management & Redis Distributed Caching Layer | ⏳ Queued |
